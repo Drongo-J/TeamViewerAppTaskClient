@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aj8oDeHHm9tXwZ17u/AWV9nbSG5zmOA4M0PiBXWb8mHHKttQCDANCnIHm/err5+2s8tl0XsvQ7IeL9CI7EgMww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hafiz\\Source\\Repos\\TeamViewerClient3212\\TeamViewerClient\\TeamViewerClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hafiz\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hafiz\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

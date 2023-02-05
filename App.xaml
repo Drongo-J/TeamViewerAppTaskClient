@@ -1,0 +1,9 @@
+﻿<Application x:Class="TeamViewerClient.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TeamViewerClient"
+             StartupUri="\Views\MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
